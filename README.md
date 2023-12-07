@@ -5,7 +5,7 @@ Contains 4 files:
 
 README.md - a short explaination of the repo.
 
-CarPrice_Assignment.csv - dataset from Kaggle containing information about the cars.
+CarPrice_Assignment.csv - dataset from Kaggle containing information about the cars. Add your filepath to this csv file on line 22 of AICarSalesman.py
 
 AICarSalesman.py - python code used to perform the linear regression.
 
